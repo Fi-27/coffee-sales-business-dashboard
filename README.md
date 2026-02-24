@@ -108,3 +108,8 @@ The dashboard enables stakeholders to explore key performance indicators (KPIs) 
 
 
 8: Analytical Thinking & Business Insight Generation
+
+
+## 📷 Dashboard Preview
+
+![Coffee Sales Dashboard](dashboard.png)
